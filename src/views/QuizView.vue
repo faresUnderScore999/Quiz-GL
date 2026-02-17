@@ -239,10 +239,10 @@ watch(finished, (v) => { if (v) clearTimeout(advanceTimer.value) })
   font-weight: 800;
   font-size: clamp(0.9rem, 1.2vw, 1rem);
   
-    color: #ffffff8a;
+    color: var(--color-text);
 }
 .option .text{
-color: #ffffffd1;
+color: var(--color-text);
 }
 @keyframes popPulse { 0%{ transform: scale(.98) } 60%{ transform: scale(1.02) } 100%{ transform: scale(1) } }
 .option.correct { border-color: #10b981; background: linear-gradient(90deg, rgba(16,185,129,0.06), rgba(16,185,129,0.02)); animation: popPulse .28s cubic-bezier(.2,.9,.2,1); }
