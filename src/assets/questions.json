@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "Scrum est :",
+    "options": [
+      "Un langage de programmation",
+      "Une méthode Agile pour gérer des projets",
+      "Un logiciel",
+      "Un type de base de données"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 2,
+    "question": "Combien y a-t-il de rôles principaux en Scrum ?",
+    "options": ["2", "3", "4", "5"],
+    "correctIndex": 1
+  },
+  {
+    "id": 3,
+    "question": "Qui est responsable du Product Backlog ?",
+    "options": ["Le Scrum Master", "L’équipe de développement", "Le Product Owner", "Le client"],
+    "correctIndex": 2
+  },
+  {
+    "id": 4,
+    "question": "Le Sprint est :",
+    "options": ["Une réunion", "Une période de travail courte", "Un document", "Un outil"],
+    "correctIndex": 1
+  },
+  {
+    "id": 5,
+    "question": "Quelle réunion se fait chaque jour ?",
+    "options": ["Sprint Review", "Sprint Planning", "Daily Scrum", "Rétrospective"],
+    "correctIndex": 2
+  },
+  {
+    "id": 6,
+    "question": "Combien de temps dure le Daily Scrum ?",
+    "options": ["1 heure", "30 minutes", "15 minutes maximum", "2 heures"],
+    "correctIndex": 2
+  },
+  {
+    "id": 7,
+    "question": "Qui aide l’équipe et enlève les obstacles ?",
+    "options": ["Le Product Owner", "Le Manager", "Le Scrum Master", "Le Client"],
+    "correctIndex": 2
+  },
+  {
+    "id": 8,
+    "question": "À la fin du Sprint, on présente le travail réalisé pendant :",
+    "options": ["Sprint Planning", "Daily Scrum", "Sprint Review", "Sprint Backlog"],
+    "correctIndex": 2
+  },
+  {
+    "id": 9,
+    "question": "La liste complète des fonctionnalités du produit est :",
+    "options": ["Sprint Backlog", "Product Backlog", "Planning Board", "Task List"],
+    "correctIndex": 1
+  },
+  {
+    "id": 10,
+    "question": "Scrum appartient aux méthodes :",
+    "options": ["Traditionnelles", "Waterfall", "Agile", "Séquentielles"],
+    "correctIndex": 2
+  }
+]
